@@ -10,6 +10,7 @@ body {
     background: #a64bf4;
     background: url(../images/img8.jpg) no-repeat;
     background: linear-gradient(45deg, #00dbde, #fc00ff) no-repeat;
+    background: linear-gradient(45deg, #000000, #333333, #111111) no-repeat;
     background-size: cover;
     top: 0%;
     left: -100%;
@@ -77,7 +78,7 @@ p {
 }
 
 a {
-    color: #2c3bac;
+    color: #e7e8f1;
     text-decoration: black;
     padding: 5px 10px;
 }
